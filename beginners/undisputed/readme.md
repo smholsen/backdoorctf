@@ -34,8 +34,8 @@ Size:       28
 
 ```
 
-Now simply look inside the n00b.txt file and get the flag :)
+Now simply look inside the n00b.txt file, generate the sha256sum of the content, and you got your flag.
 
 ```
-cat n00b/n00b.txt
+$ echo -n like_a_walk_in_a_park | sha256sum
 ```
