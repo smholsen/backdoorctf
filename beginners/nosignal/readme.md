@@ -24,5 +24,5 @@ $ gmic a.jpg b.jpg -blend xor -o result.png
 Looking at the output gives us our flag, but the task tells us to submit a sha256 of the flag.
 
 ```
-echo -n \<flag\> | sha256sum
+echo -n <flag> | sha256sum
 ```
