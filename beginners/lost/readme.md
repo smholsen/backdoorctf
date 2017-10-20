@@ -1,4 +1,4 @@
-# nosignal
+# lost
 
 ## Description
 Recently, n00b got hands on a flag in hackland, but competition is fierce. n00b lost his flag to pro people somewhere in the hackland. Help him recover it here[http://hack.bckdr.in/LOST]
